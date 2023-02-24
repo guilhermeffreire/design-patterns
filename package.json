@@ -5,9 +5,13 @@
   "repository": "https://github.com/guilhermeffreire/design-patterns.git",
   "author": "Guilherme Freire",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.1.2",
     "typescript": "^4.9.5"
   }
 }
